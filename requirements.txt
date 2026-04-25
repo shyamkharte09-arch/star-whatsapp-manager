@@ -1,0 +1,6 @@
+flask
+twilio
+google-generativeai
+python-dotenv
+pytz
+
