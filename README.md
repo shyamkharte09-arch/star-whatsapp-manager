@@ -1,4 +1,7 @@
-# 🌟 Star: Your Personal AI WhatsApp Manager
+
+# 🌟 Star AI: Your Personal AI WhatsApp Manager
+> **Official Repository of Star AI — Built by Founder Shyam Kharte**
+
 
 **Star** is a sophisticated, Generative AI-powered WhatsApp assistant designed to manage personal communications, provide smart responses, and alert the owner of important interactions. Built with a focus on security and efficiency.
 
